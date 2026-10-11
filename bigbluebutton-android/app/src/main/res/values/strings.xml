@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BigBlueButton</string>
+    <string name="home_title">Join a class</string>
+    <string name="home_subtitle">Enter a class link, or sign in to your server as a moderator</string>
+    <string name="mode_link">Class link</string>
+    <string name="mode_server">Server (admin)</string>
+    <string name="hint_link">Class link or room link</string>
+    <string name="hint_server">Server address (e.g. bbb.example.com)</string>
+    <string name="hint_secret">Shared secret</string>
+    <string name="hint_meeting_id">Meeting ID</string>
+    <string name="hint_meeting_name">Class name (optional)</string>
+    <string name="hint_name">Your name</string>
+    <string name="role_participant">Participant</string>
+    <string name="role_moderator">Moderator</string>
+    <string name="btn_join">Join</string>
+    <string name="btn_paste">Paste</string>
+    <string name="secret_warning">The secret is stored encrypted on this device. Only use this mode on a device you trust.</string>
+    <string name="err_link">Enter a valid class link</string>
+    <string name="err_fields">Fill in the server, secret, meeting ID and your name</string>
+    <string name="err_network">Could not reach the server: %1$s</string>
+    <string name="err_api">Server error: %1$s</string>
+    <string name="leave">Leave</string>
+    <string name="leave_title">Leave class?</string>
+    <string name="leave_message">You will be disconnected from the class.</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_denied">Camera/microphone permission denied. You can enable it in system settings.</string>
+</resources>

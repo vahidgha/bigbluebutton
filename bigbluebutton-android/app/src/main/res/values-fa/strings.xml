@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BigBlueButton</string>
+    <string name="home_title">ورود به کلاس</string>
+    <string name="home_subtitle">لینک کلاس را وارد کنید یا به‌عنوان مدیر با سرور خود وارد شوید</string>
+    <string name="mode_link">لینک کلاس</string>
+    <string name="mode_server">سرور (مدیر)</string>
+    <string name="hint_link">لینک کلاس یا اتاق</string>
+    <string name="hint_server">آدرس سرور (مثلاً bbb.example.com)</string>
+    <string name="hint_secret">کلید مشترک (Shared secret)</string>
+    <string name="hint_meeting_id">شناسه جلسه</string>
+    <string name="hint_meeting_name">نام کلاس (اختیاری)</string>
+    <string name="hint_name">نام شما</string>
+    <string name="role_participant">شرکت‌کننده</string>
+    <string name="role_moderator">مدیر / ارائه‌دهنده</string>
+    <string name="btn_join">ورود</string>
+    <string name="btn_paste">چسباندن</string>
+    <string name="secret_warning">کلید به‌صورت رمزنگاری‌شده روی همین دستگاه ذخیره می‌شود. فقط روی دستگاه مطمئن از این حالت استفاده کنید.</string>
+    <string name="err_link">یک لینک معتبر وارد کنید</string>
+    <string name="err_fields">سرور، کلید، شناسه جلسه و نام خود را وارد کنید</string>
+    <string name="err_network">اتصال به سرور ممکن نشد: %1$s</string>
+    <string name="err_api">خطای سرور: %1$s</string>
+    <string name="leave">خروج</string>
+    <string name="leave_title">خروج از کلاس؟</string>
+    <string name="leave_message">ارتباط شما با کلاس قطع می‌شود.</string>
+    <string name="cancel">انصراف</string>
+    <string name="permission_denied">دسترسی دوربین/میکروفون داده نشد. از تنظیمات سیستم فعالش کنید.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Bbb" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/meet_blue</item>
+        <item name="colorOnPrimary">#062E6F</item>
+        <item name="colorSurface">@color/meet_bg</item>
+        <item name="colorOnSurface">@color/meet_text</item>
+        <item name="colorSurfaceVariant">@color/meet_surface</item>
+        <item name="colorOutline">@color/meet_outline</item>
+        <item name="colorError">@color/meet_red</item>
+        <item name="android:windowBackground">@color/meet_bg</item>
+        <item name="android:statusBarColor">@color/meet_bg</item>
+        <item name="android:navigationBarColor">@color/meet_bg</item>
+    </style>
+</resources>
